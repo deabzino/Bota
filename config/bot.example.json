@@ -1,8 +1,8 @@
 {
-  "defaultPrefix": "d!",
+  "defaultPrefix": ".",
   "disabledCommandCatagories": [],
-  "githubLink": "https://github.com/cktsun1031/DraconianBot",
-  "name": "Draconian",
-  "ownerId": "926686424865058876",
+  "githubLink": "https://github.com/deabzino/Bota/",
+  "name": "Psy",
+  "ownerId": "1029077015342612521",
   "useShards": false
 }
